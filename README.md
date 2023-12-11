@@ -45,4 +45,4 @@ We will be evaluating program architecture, data structures, synchronization, re
 
 ## Delivery
 
-Zip the solution and send it (or a download link) to dev-challenges@cloudx.io
+Zip the solution and send it (or a download link) to cloudx contact
